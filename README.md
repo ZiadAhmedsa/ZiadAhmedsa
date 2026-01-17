@@ -3,7 +3,9 @@
 <h3 align="center">Flutter & Web Developer 🧠 | IT Graduate 💻 | Passionate Coder 🚀</h3>
 <p align="center">
   <a href="mailto:zahmd4218@gmail.com"><img src="https://img.shields.io/badge/Email-zahmd4218@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-ZiadAhmed-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/ZiadAhmedsa">
+  <img src="https://img.shields.io/badge/GitHub-ZiadAhmedsa-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 ---
 
