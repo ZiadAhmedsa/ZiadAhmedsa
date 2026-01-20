@@ -97,10 +97,8 @@ Here are the main tools, languages, and technologies I work with:
 
 ---
 
-## Contact Me
-- **Email:** zahmd4218@gmail.com  
-- **Phone:** +XXX XXXXXXXX  
-
+- **Email:** [zahmd4218@gmail.com](mailto:zahmd4218@gmail.com)  
+- **Phone:** [+967778340075](tel:+967778340075)
 ---
 
 ## ⚡️ Motto
